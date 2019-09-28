@@ -1,3 +1,5 @@
+The paper is available at:
+https://authors.elsevier.com/a/1Zopg3PiGTBVR6
 # DCC
 Deep Cervical Cancer 
 
